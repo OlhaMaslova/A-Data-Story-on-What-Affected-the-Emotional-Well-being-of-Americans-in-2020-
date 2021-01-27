@@ -1,5 +1,5 @@
-# ADS Project 1:  R Notebook on the Presidential Elections in the US
+# ADS Project 1:  What Affected Our Emotional Well-being in 2020? Did It Vary for Different Social Groups?
 
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+The doc directory contains the report files.   
